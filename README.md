@@ -60,23 +60,23 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Samples
 
-1. Django server started sucessfully: ![api](https://github.com/Lucifer1811/BeenThere/assets/98603982/085f7e30-c95a-494e-a559-3a3d18eda8c5)
-<br/>
+1. Django server started sucessfully: ![api](https://github.com/Lucifer1811/BeenThere/assets/98603982/085f7e30-c95a-494e-a559-3a3d18eda8c5)<br/>
 
-2. App Lauched and google maps api sucessfully imported: ![opening screen](https://github.com/Lucifer1811/BeenThere/assets/98603982/fbfe1efe-0c50-4fd4-ba7a-51a481acf10e)
-<br/>
 
-3. Note taking interface: ![notes taking interface](https://github.com/Lucifer1811/BeenThere/assets/98603982/b6a5c4bb-1e41-4af3-bbec-580416f0df10)
-<br/>
+2. App Lauched and google maps api sucessfully imported: ![opening screen](https://github.com/Lucifer1811/BeenThere/assets/98603982/fbfe1efe-0c50-4fd4-ba7a-51a481acf10e)<br/>
 
-4. Note marker on the map: ![note marker](https://github.com/Lucifer1811/BeenThere/assets/98603982/805073f6-56c4-418b-8f5c-9592852b0410)
-<br/>
 
-5. Note View: ![Note view](https://github.com/Lucifer1811/BeenThere/assets/98603982/be2efd53-97c1-43f0-9c59-f7aea55e186c)
-<br/>
+3. Note taking interface: ![notes taking interface](https://github.com/Lucifer1811/BeenThere/assets/98603982/b6a5c4bb-1e41-4af3-bbec-580416f0df10)<br/>
 
-6. Marker Updating on Database: ![updated in data base](https://github.com/Lucifer1811/BeenThere/assets/98603982/de021268-17a3-4a52-9728-5d626515d1df)
-<br/>
+
+4. Note marker on the map: ![note marker](https://github.com/Lucifer1811/BeenThere/assets/98603982/805073f6-56c4-418b-8f5c-9592852b0410)<br/>
+
+
+5. Note View: ![Note view](https://github.com/Lucifer1811/BeenThere/assets/98603982/be2efd53-97c1-43f0-9c59-f7aea55e186c)<br/>
+
+
+6. Marker Updating on Database: ![updated in data base](https://github.com/Lucifer1811/BeenThere/assets/98603982/de021268-17a3-4a52-9728-5d626515d1df)<br/>
+
 
 ## License
 
