@@ -62,7 +62,8 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 1. Django server started sucessfully: ![api](https://github.com/Lucifer1811/BeenThere/assets/98603982/085f7e30-c95a-494e-a559-3a3d18eda8c5)<br/><br/>
 
-2. App Lauched and google maps api sucessfully imported: ![opening screen](https://github.com/Lucifer1811/BeenThere/assets/98603982/fbfe1efe-0c50-4fd4-ba7a-51a481acf10e)<br/>
+
+<br/>2. App Lauched and google maps api sucessfully imported: ![opening screen](https://github.com/Lucifer1811/BeenThere/assets/98603982/fbfe1efe-0c50-4fd4-ba7a-51a481acf10e)<br/>
 
 
 3. Note taking interface: ![notes taking interface](https://github.com/Lucifer1811/BeenThere/assets/98603982/b6a5c4bb-1e41-4af3-bbec-580416f0df10)<br/>
